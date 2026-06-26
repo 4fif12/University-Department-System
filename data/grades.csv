@@ -1,0 +1,10 @@
+student_id,course_code,grade
+1,CS101,A
+2,CS101,B
+4,CS101,C
+2,CS202,A
+3,CS202,B
+5,CS202,A
+1,MA201,B
+3,MA201,A
+5,MA201,C

@@ -1,0 +1,6 @@
+student_id,name,email,enrolled_courses
+1,Alice Johnson,alice.johnson@university.edu,CS101;MA201
+2,Bob Smith,bob.smith@university.edu,CS101;CS202
+3,Carol Davis,carol.davis@university.edu,MA201;CS202
+4,David Lee,david.lee@university.edu,CS101
+5,Eva Martinez,eva.martinez@university.edu,CS202;MA201
