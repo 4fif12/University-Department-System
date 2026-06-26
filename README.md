@@ -23,8 +23,8 @@ UniDept provides a simple, menu-driven interface for department administrators t
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/4fif12/UniDept.git
-   cd UniDept
+   git clone https://github.com/4fif12/University-Department-System.git
+   cd University-Department-System
    ```
 
 2. Run the program:
